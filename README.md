@@ -6,4 +6,4 @@
 
 [Ficha técnica](https://github.com/Albitah24/Proyecto-integral-/blob/main/Ficha%20t%C3%A9cnica.md)
 
-[Documento final](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Documentos%20finales.md)
+[Documento final](https://github.com/Albitah24/Proyecto-integral-/blob/main/Documentos%20finales.md)
