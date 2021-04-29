@@ -7,6 +7,10 @@ Y luego pasamos eso a 2D con el inkscape.
 
 ![](https://github.com/Albitah24/Proyecto-integral-/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2012-19-50.png)
 
+https://github.com/Albitah24/Proyecto-integral-/blob/main/arcocoso%20axuxuma%20.pdf
+
 Y las otras 2 piezas
 
 ![](https://github.com/Albitah24/Proyecto-integral-/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2010-53-39.png)
+
+https://github.com/Albitah24/Proyecto-integral-/blob/main/arcocoso%20arro%20.pdf
