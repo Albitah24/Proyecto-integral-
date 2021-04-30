@@ -11,6 +11,6 @@ https://github.com/Albitah24/Proyecto-integral-/blob/main/arcocoso%20axuxuma%20.
 
 Y las otras 2 piezas
 
-![](https://github.com/Albitah24/Proyecto-integral-/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2010-53-39.png)
+![](https://github.com/Albitah24/Proyecto-integral-/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2010-50-10.png)
 
 https://github.com/Albitah24/Proyecto-integral-/blob/main/arcocoso%20arro%20.pdf
