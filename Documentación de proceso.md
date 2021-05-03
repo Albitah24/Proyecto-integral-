@@ -22,3 +22,7 @@ Hacemos la caja
 
 
 [Cajita](https://github.com/Albitah24/Proyecto-integral-/blob/main/box.svg)
+
+La caja con los agujeros para el boton, el USB y la espefa
+
+[caja furats](https://github.com/Albitah24/Proyecto-integral-/blob/main/box%20agujero%20.pdf)
