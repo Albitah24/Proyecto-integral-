@@ -46,3 +46,7 @@ Y los arcos montados, tuve un fallo y no encaja bien asi que hare la bola en 3D.
 La caja con el arduino dentro.
 
 ![](https://github.com/Albitah24/Proyecto-integral-/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2008-49-47.png)
+
+Mi bola 
+
+[Bola bujeroooossss](https://www.tinkercad.com/things/hK5gUnCISGK-fantabulous-wolt-stantia)
