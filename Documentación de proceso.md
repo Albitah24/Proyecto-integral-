@@ -49,4 +49,4 @@ La caja con el arduino dentro.
 
 Mi bola 
 
-[Bola bujeroooossss](https://www.tinkercad.com/things/hK5gUnCISGK-fantabulous-wolt-stantia)
+[Bolita](https://github.com/Albitah24/Proyecto-integral-/blob/main/Fantabulous%20Wolt-Stantia.stl)
